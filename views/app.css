@@ -1,0 +1,14 @@
+body{
+    padding: 50px;
+}
+
+body .thumb-img{
+    width: 120px;
+}
+
+.product-img {
+    width: 50px;
+}
+.product-img-view {
+    width: 120px;
+}
